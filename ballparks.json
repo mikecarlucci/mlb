@@ -15,7 +15,6 @@
 {"team":"Los Angeles Dodgers","abbreviation":"LAD","address":"1000 Elysian Park Ave., Los Angeles, CA 90012","lat":34.072437,"lng":-118.246879},
 {"team":"Milwaukee Brewers","abbreviation":"MIL","address":"P.O. Box 3099, Milwaukee, WI 53201-3099","lat":43.04205,"lng":-87.905599},
 {"team":"Minnesota Twins","abbreviation":"MIN","address":"501 Chicago Ave. S., Minneapolis, MN 55415","lat":44.974346,"lng":-93.259616},
-{"team":"Washington Nationals","abbreviation":"WAS","address":"1500 South Capitol Street SE, Washington, DC","lat":38.87,"lng":-77.01},
 {"team":"New York Mets","abbreviation":"NYM","address":"41 Seaver Way, New York, NY 11368","lat":40.829167,"lng":-73.926389},
 {"team":"New York Yankees","abbreviation":"NYY","address":"Yankee Stadium, E. 161 Street & River Ave., New York, NY 10451","lat":40.819782,"lng":-73.929939},
 {"team":"Oakland Athletics","abbreviation":"OAK","address":"Oakland Coliseum, 700 Coliseum Way, Oakland, Ca 94621-1918","lat":37.74923,"lng":-122.196487},
@@ -28,3 +27,4 @@
 {"team":"Tampa Bay Rays","abbreviation":"TBR","address":"1 Tropicana Drive, St. Petersburg, FL 33705","lat":27.768487,"lng":-82.648191},
 {"team":"Texas Rangers","abbreviation":"TEX","address":"1000 Ballpark Way, Arlington, TX 76011","lat":32.750156,"lng":-97.081117},
 {"team":"Toronto Blue Jays","abbreviation":"TOR","address":"1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1","lat":43.641653,"lng":-79.3917}]
+{"team":"Washington Nationals","abbreviation":"WAS","address":"1500 South Capitol Street SE, Washington, DC","lat":38.87,"lng":-77.01},
