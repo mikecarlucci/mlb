@@ -26,5 +26,5 @@
 {"team":"Seattle Mariners","abbreviation":"SEA","address":"P.O. Box 41000, 411 First Ave. S., Seattle, WA 98104","lat":47.60174,"lng":-122.330829},
 {"team":"Tampa Bay Rays","abbreviation":"TBR","address":"1 Tropicana Drive, St. Petersburg, FL 33705","lat":27.768487,"lng":-82.648191},
 {"team":"Texas Rangers","abbreviation":"TEX","address":"1000 Ballpark Way, Arlington, TX 76011","lat":32.750156,"lng":-97.081117},
-{"team":"Toronto Blue Jays","abbreviation":"TOR","address":"1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1","lat":43.641653,"lng":-79.3917}],
+{"team":"Toronto Blue Jays","abbreviation":"TOR","address":"1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1","lat":43.641653,"lng":-79.3917}]//,
 //{"team":"Washington Nationals","abbreviation":"WAS","address":"1500 South Capitol Street SE, Washington, DC","lat":38.87,"lng":-77.01}]
